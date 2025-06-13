@@ -8,7 +8,7 @@ Cada tema se encuentra desarrollado en una notebook de Google Colab. Los noteboo
 
 ---
 
-1. **Introducción a Machine Learning**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/ruta/a/tu_notebook.ipynb])
+1. **Introducción a Machine Learning**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sI44LRnyM8b-f16ovI1TL91bYvEpMXC_)
 
   - Conceptos fundamentales de Machine Learning.
   - Diferencia entre Aprendizaje Supervisado, No Supervisado y por Refuerzo.
