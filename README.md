@@ -18,18 +18,17 @@ Cada tema se encuentra desarrollado en una notebook de Google Colab. Los noteboo
 
   - Regresión Lineal Simple y Múltiple: Conceptos, ajuste de modelos, interpretación de coeficientes.
   - Regresión Polinomial: Modelado de relaciones no lineales.
-
-3. **Regresión Logística**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9UYlbCj6DxP3wkOE724P91roYXJhXMz?usp=drive_open)
-   
-  - La función Sigmoide y la transformación a probabilidades.
-  - Umbrales de clasificación.
-  - Interpretación de probabilidades y coeficientes.
-
-4. **Descenso de Gradiente**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nIK83Y_i4AZMvb4mmiaH4pComBYCLgn8)
+3. **Descenso de Gradiente**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nIK83Y_i4AZMvb4mmiaH4pComBYCLgn8)
   
   - El concepto fundamental de optimización.
   - Tasa de aprendizaje (learning rate) y mínimos locales/globales.
   - Tipos de Descenso de Gradiente (Batch, Stochastic, Mini-batch).
+
+4. **Regresión Logística**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9UYlbCj6DxP3wkOE724P91roYXJhXMz?usp=drive_open)
+   
+  - La función Sigmoide y la transformación a probabilidades.
+  - Umbrales de clasificación.
+  - Interpretación de probabilidades y coeficientes.
 
 5. **Regularización**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KuatdJwpAm-XAY_2RUkmi0_0HIUGqNJe)
    
