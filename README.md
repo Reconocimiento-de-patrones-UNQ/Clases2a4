@@ -8,41 +8,42 @@ Cada tema se encuentra desarrollado en una notebook de Google Colab. Los noteboo
 
 ---
 
-1. **Introducción a Machine Learning**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sI44LRnyM8b-f16ovI1TL91bYvEpMXC_)
+1. **Introducción a Machine Learning**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Collabs/blob/main/IntroMachinelearning.ipynb)
 
   - Conceptos fundamentales de Machine Learning.
   - Diferencia entre Aprendizaje Supervisado, No Supervisado y por Refuerzo.
   - Validación y Metricas de Análisis.
 
-2. **Modelos Lineales (Regresión Lineal y Polinomial)**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y9k0vMhSrZaFw9xv13y0moCA6Lb1VFxZ)
+2. **Modelos Lineales (Regresión Lineal y Polinomial)**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Reconocimiento-de-patrones-UNQ/Clases2a4/blob/main/Modelos_Lineales2.ipynb)
 
   - Regresión Lineal Simple y Múltiple: Conceptos, ajuste de modelos, interpretación de coeficientes.
   - Regresión Polinomial: Modelado de relaciones no lineales.
-3. **Descenso de Gradiente**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nIK83Y_i4AZMvb4mmiaH4pComBYCLgn8)
+  - 
+3. **Descenso de Gradiente**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Collabs/blob/main/DescensodeGradiente.ipynb)
   
   - El concepto fundamental de optimización.
   - Tasa de aprendizaje (learning rate) y mínimos locales/globales.
   - Tipos de Descenso de Gradiente (Batch, Stochastic, Mini-batch).
 
-4. **Regresión Logística**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o9UYlbCj6DxP3wkOE724P91roYXJhXMz?usp=drive_open)
+4. **Regresión Logística**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Collabs/blob/main/RegresionLogistica.ipynb)
    
   - La función Sigmoide y la transformación a probabilidades.
   - Umbrales de clasificación.
   - Interpretación de probabilidades y coeficientes.
 
-5. **Regularización**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KuatdJwpAm-XAY_2RUkmi0_0HIUGqNJe)
+5. **Regularización**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Collabs/blob/main/Regularizacion.ipynb)
    
   - Regularización Ridge Regression
   - Regularización Lasso Regression
   - Regularización ElasticNet Regression
 
-6. **Support Vector Machines (SVMs)**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y9k0vMhSrZaFw9xv13y0moCA6Lb1VFxZ)
+6. **Support Vector Machines (SVMs)**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Clases2a4/blob/main/SupportVectorMachine.ipynb)
   
   - Clasificación Lineal (SVC)
   - Clasificación No Lineal (Kernel Trick)
   - Support Vector Regression (SVR)
 
-7. **Árboles de Decisión y Random Forests**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y9k0vMhSrZaFw9xv13y0moCA6Lb1VFxZ)
+7. **Árboles de Decisión y Random Forests**   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Reconocimiento-de-patrones-UNQ/Clases2a4/blob/main/ArbolesyRF.ipynb)
 
   - Árboles de Decisión: Conceptos (nodos, ramas, hojas), criterios de división (Gini, Entropía).
   - Random Forests.
